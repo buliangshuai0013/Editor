@@ -1,0 +1,17 @@
+[package]
+name = "editor"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "editor"
+path = "src/lib.rs"
+
+
+[[bin]]
+name = "editor"
+path = "src/main.rs"
+
+[dependencies]
+gpui = "0.2.2"
+rand = "0.8.5"
