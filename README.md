@@ -1,7 +1,7 @@
 GPUI 简易编辑器
 
 
-![功能演示](./video.gif)
+![功能演示](./editor/video.gif)
 
 ## 功能特性
 1. 放大缩小矩形
